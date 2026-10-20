@@ -1,0 +1,14 @@
+{
+  "version": "0.1.0",
+  "entry": "mk7pc.exe",
+  "known_roms": {
+    "<sha256 of a good decrypted dump you've verified>": "Mario Kart 7 (USA) v1.1"
+  },
+  "files": [
+    {
+      "path": "mk7pc.exe",
+      "url": "https://your-host.example/mk7pc/0.1.0/mk7pc.exe",
+      "sha256": "<sha256 of that file>"
+    }
+  ]
+}
